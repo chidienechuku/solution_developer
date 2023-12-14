@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: \main.php
-    destination: c:\inetpub\wwwroot
+    destination: c:\ssd_demo_codes
